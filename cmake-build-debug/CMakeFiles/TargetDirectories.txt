@@ -1,0 +1,3 @@
+C:/BBBBBBBHAPPYBBBBBBB/stm32/Training_Project_HAL_Library/mensuo/cmake-build-debug/CMakeFiles/project1.elf.dir
+C:/BBBBBBBHAPPYBBBBBBB/stm32/Training_Project_HAL_Library/mensuo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/BBBBBBBHAPPYBBBBBBB/stm32/Training_Project_HAL_Library/mensuo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
